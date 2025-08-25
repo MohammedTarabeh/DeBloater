@@ -10,8 +10,6 @@ This script helps you free up disk space, optimize memory, and manage browser ca
 - 🌐 **Clear browser cache**: Chrome, Edge, Firefox  
 - 🗑️ **Empty Recycle Bin** for all drives  
 - 🧠 **Memory optimization**  
-- 📥 **Auto-download & run external tools** (Debloater.txt)  
-
 ---
 
 ## ⚡ Usage
